@@ -161,6 +161,8 @@ Read more in our [Concepts](concepts/) section.
 
 ## Community & Support
 
+- [💬 Discussions](https://github.com/CompuX-ai/AI-Compute-Credit-Marketplace/discussions) -- Ask questions, share use cases, get help
+
 - [Website](https://compux.ai) -- Learn about CompuX
 - [Knowledge Base](https://compux.net) -- In-depth articles and guides
 - [API Docs](https://docs.compux.ai) -- API reference
